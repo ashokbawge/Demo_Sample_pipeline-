@@ -1,1 +1,3 @@
-# Demo_Sample_pipeline-
+# maven-project
+
+Simple Maven Project
